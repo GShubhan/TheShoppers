@@ -18,3 +18,5 @@ provides detail on the medicines, it’s price and expiry.
 6. dict.items()
 7.sum()
 8.range()
+
+Read Wiki for Flowchart
