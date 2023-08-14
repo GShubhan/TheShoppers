@@ -19,4 +19,5 @@ provides detail on the medicines, it’s price and expiry.
 7.sum()
 8.range()
 
-Read Wiki for Flowchart
+**Read Wiki for Flowchart**
+https://github.com/GShubhan/TheShoppers/wiki
