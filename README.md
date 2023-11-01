@@ -1,4 +1,4 @@
-# TheShoppers
+# TheShoppers - not changing anything here , 
 My first school project
 The project entitled, “ The Shoppers” undertaken as a part of fulfilment of Computer Science [083] practical syllabus for class XI CBSE under guidance and supervision my teacher Ms. Ravneet Kaur.
 
@@ -6,7 +6,7 @@ This project will enable the medical shops to manage their shops stock, will all
 provides detail on the medicines, it’s price and expiry.
 
 
-**Code limitations** – Now when I am adding this project to my repository, I see the limitations of this code. It does not use data storage and use has to enter inventory all over again with every execution of this program 😊
+**Code limitations** – Now when I am adding this project to my repository, I see the limitations of this code. It does not use data storage and user has to enter inventory all over again with every execution of this program 😊 
 
 
 **Functions used in the project-**
